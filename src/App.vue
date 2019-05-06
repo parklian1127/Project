@@ -30,6 +30,10 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
+  image {
+    width: 100%;
+    height: 100%;
+  }
 
 </style>
