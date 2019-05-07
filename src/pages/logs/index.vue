@@ -1,5 +1,5 @@
 <template>
-  <div>分类</div>
+  <div>搜索</div>
 </template>
 
 <script>
