@@ -158,13 +158,13 @@
   }
   .navs {
     overflow: hidden;
+    padding: 24rpx 30rpx;
+    display: flex;
+    justify-content: space-between;
+
     navigator {
       height: 128rpx;
       width: 128rpx;
-      float: left;
-      margin: 24rpx 20rpx;
-      padding-left: 20rpx;
-
      }
   }
 
